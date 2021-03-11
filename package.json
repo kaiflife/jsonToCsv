@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv": "^5.4.0",
+    "jsonexport": "^3.2.0"
+  },
+  "devDependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
